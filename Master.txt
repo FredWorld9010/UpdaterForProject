@@ -1,1 +1,3 @@
-
+<Version: 1.01>
+/img/pictures/fon http://download1472.mediafire.com/9hhce3tg7amg/mzmmey1q3b4zdjv/%D1%84%D0%BE%D0%BD%D0%BD.png
+<End of Version>
